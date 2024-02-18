@@ -1,0 +1,24 @@
+{
+    "MaxValue": {
+        "student_name": "Mahmoud",
+        "value": "100"
+    },
+    "MaxAvg": {
+        "student_name": "Mahmoud",
+        "value": "96.6"
+    },
+    "MinValue": {
+        "student_name": "Khaled",
+        "value": "50"
+    },
+    "MinAvg": {
+        "student_name": "Khaled",
+        "value": "66.8"
+    },
+    "standard_deviation": "13",
+    "Q1": "77.0",
+    "Q2": "88",
+    "Q3": "94.5",
+    "IQR": "17.5",
+    "most_freq_value": "77"
+}
